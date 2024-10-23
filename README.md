@@ -2,7 +2,7 @@
 PowerBI+SQL+ML
 
 
-# CHURN ANALYSIS project using SQL Server, Power BI & Python which includes
+# CHURN ANALYSIS project includes
 1. ETL process in SQL Server
 2. Data Cleaning in SQL Server
 3. Power BI Transformations
