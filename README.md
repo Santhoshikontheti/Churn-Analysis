@@ -1,5 +1,8 @@
 # Churn-Analysis
-PowerBI+SQL+ML
+<!-- This resizes the images to a width of 50 pixels each -->
+<img src="https://github.com/user-attachments/assets/f0b4d69a-aeb4-42b0-a392-8e6b9d7634a6" width="150"/>
+<img src="https://github.com/user-attachments/assets/28c78566-ac39-4455-b6e8-b90032e034a1" width="150"/>
+<img src="https://github.com/user-attachments/assets/7ecc3a09-034d-4fb6-955b-382063a2996b" width="150"/>
 
 
 # CHURN ANALYSIS project includes
